@@ -1,0 +1,43 @@
+body{
+    background-color: #C8FFD4;
+    font-family: 'Tangerine', serif;
+    
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+.navbar{
+    background-color: #FDFDBD;
+    font-size: 30px;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+.menu{
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    background-color: #EC7272;
+}
+.imag{
+    background-color: #FDFDBD;
+    padding: 5rem;
+    
+    width: 30rem;
+    
+    margin-bottom: 3rem;
+    margin-left: 5rem;
+    margin-right:10rem;
+}
+.form{
+    font-size: 2rem;
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+.number, .name{
+    font-family: 'Times New Roman', Times, serif;
+}
